@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is s demo website
+          This is a demo website and i am smit vora.
         </a>
       </header>
     </div>
